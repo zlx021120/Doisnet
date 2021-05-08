@@ -10,7 +10,7 @@ Solve any network problem
 
 为缩小应用体积 ```Doisnet``` 采用 ```powershell``` 脚本设置系统代理，以下为脚本源码
 
-### 1. wininet-reset-settings.ps1
+### wininet-reset-settings.ps1
 ```
 $signature = @'
 [DllImport("wininet.dll", SetLastError = true, CharSet=CharSet.Auto)]

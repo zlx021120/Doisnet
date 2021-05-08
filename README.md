@@ -8,7 +8,7 @@ Solve any network problem
 ## 病毒威胁防范
 大部分安全软件默认将 ```powershell``` 脚本标识为病毒，后缀名为 ```.ps1```
 
-为缩小应用体积 ```Doisnet``` 采用 ```powershell``` 脚本设置系统代理，以下为脚本源码
+为缩小应用体积 ```Doisnet``` 采用 ```wininet-reset-settings.ps1``` 脚本设置系统代理
 
 ### wininet-reset-settings.ps1
 ```

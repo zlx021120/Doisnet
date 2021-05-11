@@ -22,7 +22,7 @@
 2. 启动
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决
 
-## 版本升级后设置中心和Dosvpn无法正常开启的解决办法
+## 版本升级后插件正常开启的解决办法
 ###### windows 解决办法
 1. 关闭 ```Doisnet```
 2. 进入 ```C:\Users\Administrator\AppData\Roaming\doisnet```

@@ -8,9 +8,9 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/dodois/Doisnet?style=flat-square">
 </p>
 
-[QQ交流群](https://jq.qq.com/?_wv=1027&k=ytGmINy8)
+[:penguin:QQ交流群](https://jq.qq.com/?_wv=1027&k=ytGmINy8)
 
-[TG交流群](https://t.me/dosvpn)
+[:airplane:电报交流群](https://t.me/dosvpn)
 
 [:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.2/doisnet-0.0.2.Setup.exe)
 

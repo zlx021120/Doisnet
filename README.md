@@ -2,7 +2,10 @@
 <h6>Solve any network problem</h6>
 <img align="right" src="https://user-images.githubusercontent.com/73285310/117543679-68f9b680-b050-11eb-9286-7d806d6f5f08.png">
 <p>
-  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/dodois/Doisnet/latest/total?style=flat-square">&nbsp;<img alt="GitHub" src="https://img.shields.io/github/license/dodois/Doisnet?style=flat-square">&nbsp;<img alt="GitHub stars" src="https://img.shields.io/github/stars/dodois/Doisnet?style=flat-square">
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/dodois/Doisnet/latest/total?style=flat-square">&nbsp;
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/dodois/Doisnet/total?style=flat-square">&nbsp;
+  <img alt="GitHub" src="https://img.shields.io/github/license/dodois/Doisnet?style=flat-square">&nbsp;
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/dodois/Doisnet?style=flat-square">
 </p>
 
 [:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.1/doisnet-0.0.1.Setup.exe)

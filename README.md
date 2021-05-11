@@ -12,28 +12,12 @@
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
-## 病毒威胁防范
-大部分安全软件默认将 ```powershell``` 脚本标识为病毒，后缀名为 ```.ps1```
-
-为缩小应用体积 [Doisnet](https://github.com/dodois/Doisnet) 采用 ```wininet-reset-settings.ps1``` 脚本设置系统代理
-
-### wininet-reset-settings.ps1
-```powershell
-$signature = @'
-[DllImport("wininet.dll", SetLastError = true, CharSet=CharSet.Auto)]
-public static extern bool InternetSetOption(IntPtr hInternet, int
-dwOption, IntPtr lpBuffer, int dwBufferLength);
-'@
-
-$interopHelper = Add-Type -MemberDefinition $signature -Name MyInteropHelper -PassThru
-$INTERNET_OPTION_SETTINGS_CHANGED = 39
-$INTERNET_OPTION_REFRESH = 37
-
-$result1 = $interopHelper::InternetSetOption(0, $INTERNET_OPTION_SETTINGS_CHANGED, 0, 0)
-$result2 = $interopHelper::InternetSetOption(0, $INTERNET_OPTION_REFRESH, 0, 0)
-
-$result1 -and $result2
-```
+## 版本升级后设置中心和Dosvpn无法正常开启的解决办法
+#### windows 解决办法
+1. 关闭 ```Doisnet```
+2. 进入 ```C:\Users\Administrator\AppData\Roaming\doisnet```
+3. 删除 ```config.json```
+> ```AppData```通常为隐藏文件，[如何显示隐藏文件](https://support.microsoft.com/zh-cn/windows/%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E7%9A%84%E6%96%87%E4%BB%B6-0320fe58-0117-fd59-6851-9b7f9840fdb2)
 
 ## Apple Developer 证书签名支援
 我们缺少可用的苹果开发者ID

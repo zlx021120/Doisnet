@@ -12,7 +12,7 @@
 
 [:airplane:电报交流群](https://t.me/dosvpn)
 
-[:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.4/doisnet-0.0.4.Setup.exe)
+[:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.5/doisnet-0.0.5.Setup.exe)
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
@@ -22,16 +22,9 @@
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*
 ###### windows 解决办法
-1. 下载[最新版Doisnet](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.4/doisnet-0.0.4.Setup.exe)
+1. 下载[最新版Doisnet](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.5/doisnet-0.0.5.Setup.exe)
 2. 启动
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决
-
-## 版本升级后插件无法正常开启的解决办法
-###### windows 解决办法
-1. 关闭 ```Doisnet```
-2. 进入 ```C:\Users\Administrator\AppData\Roaming\doisnet```
-3. 删除 ```config.json```
-> ```AppData```通常为隐藏文件，[如何显示隐藏文件](https://support.microsoft.com/zh-cn/windows/%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E7%9A%84%E6%96%87%E4%BB%B6-0320fe58-0117-fd59-6851-9b7f9840fdb2)
 
 ## Apple Developer 证书签名支援
 *我们缺少可用的苹果开发者ID*

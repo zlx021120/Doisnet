@@ -33,6 +33,6 @@
 希望社区的小伙伴能够支援我们有效的开发者ID或证书.
 助力Mac版 [Doisnet](https://github.com/dodois/Doisnet) 早日上线.*
 
-###### 支援方式：
+###### 投资 or 赞助 or 支援
 1. 加入 [TG群组](https://t.me/dosvpn)
 2. 邮件 <doisnet@protonmail.com>

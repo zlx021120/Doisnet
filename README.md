@@ -19,19 +19,17 @@
 <br/>
 <br/>
 
+## 声明
+*这是一款准商业应用，到目前为止 [Doisnet](https://github.com/dodois/Doisnet) 仍处于闭源状态。*
+
+*无论如何我们都将始终**坚持对用户免费**。*
+
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*
 ###### windows 解决办法
 1. 下载[最新版Doisnet](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.0.6/doisnet-0.0.6.Setup.exe)
 2. 启动
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决
-
-## Apple Developer 证书签名支援
-*我们缺少可用的苹果开发者ID*
-
-*该问题导致Mac版 [Doisnet](https://github.com/dodois/Doisnet) 无法正常签名打包.
-希望社区的小伙伴能够支援我们有效的开发者ID或证书.
-助力Mac版 [Doisnet](https://github.com/dodois/Doisnet) 早日上线.*
 
 ## 投资 or 赞助 or 支援
 1. 加入 [TG群组](https://t.me/dosvpn)

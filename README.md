@@ -32,6 +32,6 @@
 2. 启动
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决
 
-## 投资 or 赞助(捐赠) or 支援
+## 投资 or 赞助（捐赠） or 支援
 1. 加入 [TG群组](https://t.me/dosvpn)
 2. 邮件 <doisnet@protonmail.com>

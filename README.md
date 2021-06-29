@@ -13,7 +13,7 @@
 
 [:airplane:电报交流群](https://t.me/dosvpn)
 
-[:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.0/doisnet-0.1.0.Setup.exe)
+[:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.1/doisnet-0.1.1.Setup.exe)
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
@@ -28,8 +28,7 @@
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*
 ###### windows 解决办法
-1. 下载[最新版Doisnet](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.0/doisnet-0.1.0.Setup.exe)
-2. 启动
+1. 重新启动Doisnet
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决
 
 ## 投资 or 赞助（捐赠） or 支援

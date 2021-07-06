@@ -25,7 +25,7 @@
 
 *无论如何我们都将始终**坚持对用户免费**。* 点击 ⭐ Star 为我们助力！
 
-## 关于GPU使用率偏高的解释
+## 关于GPU使用率偏高的原因
 https://github.com/dodois/Doisnet/issues/18
 
 ## 关机后再开机无法上网的问题

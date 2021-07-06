@@ -25,6 +25,9 @@
 
 *无论如何我们都将始终**坚持对用户免费**。* 点击 ⭐ Star 为我们助力！
 
+## 关于GPU使用率偏高的解释
+https://github.com/dodois/Doisnet/issues/18
+
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*
 ###### windows 解决办法

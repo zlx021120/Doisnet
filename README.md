@@ -37,3 +37,8 @@ https://github.com/dodois/Doisnet/issues/18
 ## 投资 or 赞助（捐赠） or 支援
 1. 加入 [TG群组](https://t.me/dosvpn)
 2. 邮件 <doisnet@protonmail.com>
+
+## 安装教程
+*由于缺少签名及证书，导致Windows安装时会有【未知应用提示】*
+
+![画板 1](https://user-images.githubusercontent.com/73285310/124885343-c0db7c00-e005-11eb-813e-0b948b95161d.png)

@@ -13,7 +13,7 @@
 
 [:airplane:电报交流群](https://t.me/dosvpn)(官方)
 
-[:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.3/doisnet-0.1.3.Setup.exe)
+[:computer:Windows版下载](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.4/doisnet-0.1.4.Setup.exe)
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 

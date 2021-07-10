@@ -13,7 +13,7 @@
 
 [:airplane:电报交流群](https://t.me/dosvpn)(官方)
 
-[:computer:Windows版下载](http://dlj.bz/doisnet)
+<a href="http://dlj.bz/doisnet" target="_blank">:computer:Windows版下载</a>
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 

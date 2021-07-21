@@ -37,13 +37,15 @@ https://github.com/dodois/Doisnet/issues/18
 ## 投资 or 赞助（捐赠） or 支援
 1. 加入 [TG群组](https://t.me/dosvpn)
 2. 邮件 <doisnet@protonmail.com>
+> 如果您有赞助意向或已经赞助，请务必与我们取得联系，感谢您的支持！
 <img src="https://user-images.githubusercontent.com/73285310/126324823-4aedd69e-acbd-4a29-a308-06a079a97ffa.jpg" width = "300"/>
 
+- TRX: **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
+- ETH: **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**
 - XMR: **87PerUDpAQd7rtobJB8B2aNv6GtxxztgZha6y1jPyVPDcmg8L2qunZDXu5SEY54W2Wgnck9d9vYUxCW2T4ZkhANb5W77S81**
 - BTC: **3MyCtjkbaV9hkG41LeSrza6HrmN3f2WAdB**
 - USDT(ERC20): **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**
 - USDT(TRC20): **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
-> 如果您有赞助意向或已经赞助，请通过[TG群组](https://t.me/dosvpn)与我们取得联系，感谢您的支持！
 
 ## 安装教程
 *由于缺少签名及证书，导致Windows安装时会有【未知应用提示】*

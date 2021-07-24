@@ -25,6 +25,13 @@
 
 *无论如何我们都将始终**坚持对用户免费**。* 点击 ⭐ Star 为我们助力！
 
+## Windows 下载地址
+[备用地址 1](http://dlj.bz/doisnet) &nbsp;&nbsp;
+[备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.4/doisnet-0.1.4.Setup.exe)&nbsp;&nbsp;
+[备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.4/doisnet-0.1.4.Setup.exe)&nbsp;&nbsp; 
+[备用地址 4](http://nr.doisnet.com/api/v1/app/download/win64)
+> 地址可能存在被屏蔽的情况，全部失效请联系我们
+
 ## 关于GPU使用率偏高的原因
 https://github.com/dodois/Doisnet/issues/18
 

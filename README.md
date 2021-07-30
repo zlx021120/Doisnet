@@ -20,6 +20,10 @@
 <br/>
 <br/>
 
+## 关于OnlineAnonymity邀请码
+1. 新用户需要输入邀请码后才能使用，邀请码可以从上方的交流群中获得
+2. 捐赠过的用户，请加入[:airplane:电报交流群](https://t.me/dosvpn)(官方)，我们在收到您的请求后将第一时间为您开通
+
 ## 声明
 *这是一款准商业应用，到目前为止 [Doisnet](https://github.com/dodois/Doisnet) 仍处于闭源状态。*
 

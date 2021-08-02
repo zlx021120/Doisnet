@@ -13,7 +13,7 @@
 
 [:airplane:电报交流群](https://t.me/dosvpn)(官方)
 
-官方邮箱：<doisnet@protonmail.com>
+📧<doisnet@protonmail.com>(官方邮箱)
 
 [:computer:Windows版下载](http://dlj.bz/doisnet)
 

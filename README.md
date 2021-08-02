@@ -41,7 +41,7 @@
 [备用地址 4](http://nr.doisnet.com/api/v1/app/download/win64)
 > 地址可能存在被屏蔽的情况，全部失效请联系我们
 
-### 手机上网教程：
+### 手机上网教程
 **IOS 通过 OnlineAnonymity上网**
 1. 确保设备处于同一局域网
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」

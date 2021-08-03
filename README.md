@@ -47,15 +47,14 @@
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」
 3. IOS 下载[Potatso](https://potatso.com/)
 4. 打开Potatso lite，点击右上角＋号，选择手动输入-添加-选择socks5-填写服务器（OnlineAnonymity所在电脑的ip ）-填写端口（OnlineAnonymity的端口一般为8000），剩余选项不用填写
-6. 点击左上角完成，回到主页点击右下角即可连接
+5. 点击左上角完成，回到主页点击右下角即可连接
 
 **Android 通过 OnlineAnonymity上网**
 1. 确保设备处于同一局域网
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」
 3. Android 下载 [postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern&hl=zh&gl=US)
 4. 根据提示 在Postern上设置SOCKS5代理，IP填写OnlineAnonymity所在电脑的ip，端口填写OnlineAnonymity的端口一般为8000
-5. 剩余选项不用填写
-6. Postern点击开启 既可
+5. 剩余选项不用填写，Postern点击开启即可连接
 
 ## 关于GPU使用率偏高的原因
 https://github.com/dodois/Doisnet/issues/18

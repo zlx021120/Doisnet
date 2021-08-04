@@ -45,16 +45,16 @@
 **IOS 通过 OnlineAnonymity上网**
 1. 确保设备处于同一局域网
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」
-3. IOS 下载[Potatso](https://potatso.com/)
+3. IOS 下载 [Potatso](https://potatso.com/) (需非大陆区ID) 
 4. 打开Potatso lite，点击右上角＋号，选择手动输入-添加-选择socks5-填写服务器（OnlineAnonymity所在电脑的ip ）-填写端口（OnlineAnonymity的端口一般为8000），剩余选项不用填写
 5. 点击左上角完成，回到主页点击右下角即可连接
 
 **Android 通过 OnlineAnonymity上网**
 1. 确保设备处于同一局域网
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」
-3. Android 下载 [Proxifier](https://play.google.com/store/apps/details?id=com.peakslab.proxifier&hl=zh&gl=US)
-4. 根据提示 在Proxifier上设置SOCKS5代理，IP填写OnlineAnonymity所在电脑的ip，端口填写OnlineAnonymity的端口一般为8000
-5. 剩余选项不用填写，Proxifier点击开启即可连接
+3. Android 下载 [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern&hl=en_US&gl=US)
+4. 根据提示 在Postern上设置SOCKS5代理类型，服务器地址填写OnlineAnonymity所在电脑的ip，端口填写OnlineAnonymity的端口一般为8000，注意不要填写用户名和密码
+5. 点击左侧logo，倒数第二个选项「打开VPN」即可连接
 
 ## 关于GPU使用率偏高的原因
 https://github.com/dodois/Doisnet/issues/18

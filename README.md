@@ -26,6 +26,9 @@
 ![Snipaste_2021-07-31_16-16-29](https://user-images.githubusercontent.com/73285310/127733682-54177fe6-ba80-4d10-a465-68ff4419bb3c.png)
 
 ## 关于OnlineAnonymity邀请码
+
+*Doisnet OnlineAnonymity 是目前全网唯一节点最多，支持随意切换节点且永久免费、永久更新、不限速、不限流量、不限使用时长的应用*
+
 1. 新用户需要输入邀请码后才能使用，邀请码可以从上方的交流群中获得
 2. 捐赠过的用户，请加入[:airplane:电报交流群](https://t.me/dosvpn)(官方)或给我们发送邮件<doisnet@protonmail.com>，我们在收到您的请求后将第一时间为您开通
 

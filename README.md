@@ -20,6 +20,14 @@
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
 <br/>
+
+## Windows 下载地址
+[备用地址 1](http://dlj.bz/doisnet) &nbsp;&nbsp;
+[备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.6/doisnet-0.1.6.Setup.exe)&nbsp;&nbsp;
+[备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.6/doisnet-0.1.6.Setup.exe)&nbsp;&nbsp; 
+[备用地址 4](http://nr.doisnet.com/api/v1/app/download/win64)
+> 地址可能存在被屏蔽的情况，全部失效请联系我们
+
 <br/>
 
 ![Snipaste_2021-07-31_16-13-19](https://user-images.githubusercontent.com/73285310/127733596-820aeef9-dd16-4a6d-9712-f6bdc45b0507.png)
@@ -36,22 +44,15 @@
 
 *[Doisnet](https://github.com/dodois/Doisnet) 的长期运营及发展离不开社区的赞助与支持，感谢小伙伴们！*
 
-*这是一款**免费**的应用！我们仅支持捐赠！绝不存在商业付费的情况！*
+这是一款**免费**的应用！我们仅支持捐赠！绝不存在商业付费的情况！
 
-*近期了解到有部分网站及个人在盗卖此应用，请大家小心谨慎！*
+近期了解到有部分网站及个人在盗卖此应用，请大家小心谨慎！
 
-*为保障应用的安全性，防止应用被恶意挂马，到目前为止 [Doisnet](https://github.com/dodois/Doisnet) 仍处于闭源状态。*
+为保障应用的安全性，防止应用被恶意挂马，到目前为止 [Doisnet](https://github.com/dodois/Doisnet) 仍处于闭源状态。
 
-*请务必通过官方途径下载应用，谨防上当受骗！*
+请务必通过官方途径下载应用，谨防上当受骗！
 
-*无论如何我们都将始终**坚持对用户免费**。* 点击 ⭐ Star 为我们助力！
-
-## Windows 下载地址
-[备用地址 1](http://dlj.bz/doisnet) &nbsp;&nbsp;
-[备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.6/doisnet-0.1.6.Setup.exe)&nbsp;&nbsp;
-[备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.6/doisnet-0.1.6.Setup.exe)&nbsp;&nbsp; 
-[备用地址 4](http://nr.doisnet.com/api/v1/app/download/win64)
-> 地址可能存在被屏蔽的情况，全部失效请联系我们
+无论如何我们都将始终**坚持对用户免费**。 点击 ⭐ Star 为我们助力！
 
 ### 手机上网教程
 **IOS 通过 OnlineAnonymity上网**

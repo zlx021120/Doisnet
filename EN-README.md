@@ -54,7 +54,7 @@ To ensure the security of the application and prevent it from being maliciously 
 
 Please be sure to download the application through official channels, to prevent fraud!
 
-We will always **stay free** to our users no matter what. Click ⭐ Star to help us!
+We will always **stay free** to our users no matter what. Click ⭐ Star to support us!
 
 ## Mobile Internet Tutorial
 **IOS Internet access via OnlineAnonymity**

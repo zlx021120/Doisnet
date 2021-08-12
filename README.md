@@ -54,7 +54,7 @@
 
 无论如何我们都将始终**坚持对用户免费**。 点击 ⭐ Star 为我们助力！
 
-### 手机上网教程
+## 手机上网教程
 **IOS 通过 OnlineAnonymity上网**
 1. 确保设备处于同一局域网
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」
@@ -74,7 +74,7 @@ https://github.com/dodois/Doisnet/issues/18
 
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*
-###### windows 解决办法
+**windows 解决办法**
 1. 重新启动Doisnet
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决
 

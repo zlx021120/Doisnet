@@ -1,8 +1,6 @@
 # Doisnet 
 ###### Solve any network problem
 
-[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
-
 <img align="right" src="https://user-images.githubusercontent.com/73285310/117543679-68f9b680-b050-11eb-9286-7d806d6f5f08.png">
 <p>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/dodois/Doisnet/latest/total?style=flat-square">&nbsp;
@@ -10,6 +8,8 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/dodois/Doisnet?style=flat-square">&nbsp;
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/dodois/Doisnet?style=flat-square">
 </p>
+
+:page_facing_up:[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
 
 [:penguin:QQ交流群](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(特别感谢-网友“Sobrem”提供的交流平台)
 

@@ -74,6 +74,7 @@ https://github.com/dodois/Doisnet/issues/18
 
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*
+
 **windows 解决办法**
 1. 重新启动Doisnet
 > [Doisnet](https://github.com/dodois/Doisnet) 会在每次启动时修复系统代理，所以再次开启即可解决

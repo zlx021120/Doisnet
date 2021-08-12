@@ -9,6 +9,8 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/dodois/Doisnet?style=flat-square">
 </p>
 
+:page_facing_up:[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
+
 [:penguin:QQ Chatroom](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(Special thanks to "Sobrem" for the chatroom)
 
 [:airplane:TG Chatroom](https://t.me/dosvpn)(Official)

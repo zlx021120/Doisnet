@@ -98,3 +98,22 @@ https://github.com/dodois/Doisnet/issues/18
 *由于缺少签名及证书，导致Windows安装时会有【未知应用提示】*
 
 ![画板 1](https://user-images.githubusercontent.com/73285310/124885343-c0db7c00-e005-11eb-813e-0b948b95161d.png)
+
+## 安装报错的解决办法
+![image](https://user-images.githubusercontent.com/73285310/129849243-dee0a7b2-c072-4fc1-9aa1-be35477bc697.png)
+
+*大多数情况下有效的解决办法：*
+1. 通过任务管理器杀死Doisnet进程
+2. 删除 C:\Users\Administrator\AppData\Local\doisnet 文件夹
+3. 删除 C:\Users\Administrator\AppData\Roaming\doisnet 文件夹
+4. 重启电脑
+5. 重新尝试安装
+> 如果找不到AppData（一般为隐藏文件）则：
+> win + R 输入 %appdata% 删除对应doisnet 文件夹 ，再次输入 %localappdata% 删除对应doisnet 文件夹
+
+*如果以上方式无法解决：*
+1. 更名安装包doisnet-0.1.7.Setup.exe 为 doisnet-0.1.7.Setup.zip
+2. 在解压后的文件中得到doisnet-0.1.7-full.nupkg，无需更名再次解压 
+3. 打开doisnet-0.1.7-full —-> lib —-> net45
+4. 运行doisnet.exe
+> 也可以通过7z方式直接解压exe得到net45

@@ -65,6 +65,9 @@
 5. 点击左上角完成，回到主页点击右下角即可连接
 
 **Android 通过 OnlineAnonymity上网**
+
+![画板 1](https://user-images.githubusercontent.com/73285310/131208167-912fe0b4-b481-4fc8-9b9e-3cefb0fec8a0.png)
+
 1. 确保设备处于同一局域网
 2. OnlineAnonymity正常连接，并开启「允许局域网连接」
 3. Android 下载 [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern&hl=en_US&gl=US)
@@ -83,6 +86,8 @@ https://github.com/dodois/Doisnet/issues/18
 
 
 ## 免费是把双刃剑
+
+![photo_2021-08-28_14-04-57](https://user-images.githubusercontent.com/73285310/131208157-8356b2b8-cc74-4d87-a532-ceb6e37cae8c.jpg)
 
 Doisnet 生于社区，服务于社区！我们坚持不收费，仅靠打赏维持运营，凭借口碑和体验获得用户的信任！
 

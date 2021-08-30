@@ -125,7 +125,7 @@ Doisnet 生于社区，服务于社区！我们坚持不收费，仅靠打赏维
 
 ![画板 1](https://user-images.githubusercontent.com/73285310/124885343-c0db7c00-e005-11eb-813e-0b948b95161d.png)
 
-## 安装报错的解决办法
+## 主应用安装报错的解决办法
 ![image](https://user-images.githubusercontent.com/73285310/129849243-dee0a7b2-c072-4fc1-9aa1-be35477bc697.png)
 
 *大多数情况下有效的解决办法：*
@@ -143,3 +143,9 @@ Doisnet 生于社区，服务于社区！我们坚持不收费，仅靠打赏维
 3. 打开doisnet-0.1.7-full —-> lib —-> net45
 4. 运行doisnet.exe
 > 也可以通过7z方式直接解压exe得到net45
+
+## 插件下载不成功或太慢的解决办法
+*可能由于您的ISP服务提供商对Doisnet网络进行了限制* 
+1. 尝试修改DNS设置 如：8.8.8.8 / 8.8.4.4 、 1.1.1.1 / 1.0.0.1 、 223.5.5.5 / 223.6.6.6 、 114.114.114.114 / 114.114.115.115等
+2. 电脑连接手机热点进行下载（注意：手机请关闭wifi，使用流量开启热点）
+> 一款优秀的DNS辅助设置工具 [dns-jumper](https://www.sordum.org/files/downloads.php?dns-jumper)

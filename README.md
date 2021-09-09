@@ -17,7 +17,7 @@
 
 📧<doisnet@protonmail.com>(官方邮箱)
 
-[:computer:Windows版下载](http://dlj.bz/doisnet)
+[:computer:Windows版下载](http://dlj.bz/doisnetWin64)
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 

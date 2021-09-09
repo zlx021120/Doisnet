@@ -17,14 +17,14 @@
 
 📧<doisnet@protonmail.com>(Official Email)
 
-[:computer:Windows version](http://dlj.bz/doisnet)
+[:computer:Windows version](http://dlj.bz/doisnetWin64)
 
 [:apple:Mac version](https://github.com/dodois/Doisnet/issues/3)
 
 <br/>
 
 ## Windows version download
-[Alternate Address 1](http://dlj.bz/Win64Doisnet) &nbsp;&nbsp;
+[Alternate Address 1](http://dlj.bz/doisnetWin64) &nbsp;&nbsp;
 [Alternate Address 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp;
 [Alternate Address 3](https://github.com/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp; 
 [Alternate Address 4](https://doisnet.com/api/v1/app/download/win64)

@@ -17,13 +17,13 @@
 
 📧<doisnet@protonmail.com>(官方邮箱)
 
-[:computer:Windows版下载](http://dlj.bz/doisnetWin64)
+[:computer:Windows x64版下载](http://dlj.bz/doisnetWin64)
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
 <br/>
 
-## Windows 下载地址
+## Windows x64 下载地址
 [备用地址 1](http://dlj.bz/doisnetWin64) &nbsp;&nbsp;
 [备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp;
 [备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp; 
@@ -126,6 +126,7 @@ Doisnet 生于社区，服务于社区！我们坚持不收费，仅靠打赏维
 ![画板 1](https://user-images.githubusercontent.com/73285310/124885343-c0db7c00-e005-11eb-813e-0b948b95161d.png)
 
 ## 主应用安装报错的解决办法
+*我们不再考虑对 windows x86（32位系统）的支持，以下解决办法可能不适用于32位系统*
 ![image](https://user-images.githubusercontent.com/73285310/129849243-dee0a7b2-c072-4fc1-9aa1-be35477bc697.png)
 
 *大多数情况下有效的解决办法：*

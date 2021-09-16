@@ -72,7 +72,7 @@ We will always **stay free** to our users no matter what. Click ⭐ Star to supp
 5. Click on the logo on the left and the penultimate option "Open VPN" to connect
 
 ## About the reasons for high GPU usage
-https://github.com/dodois/Doisnet/issues/18
+..
 
 ## The problem of not being able to access the Internet after shutting down and turning on the computer again
 *The system agent could not be cleaned in time because [Doisnet](https://github.com/dodois/Doisnet) did not exit properly.*

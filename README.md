@@ -75,7 +75,19 @@
 5. 点击左侧logo，倒数第二个选项「打开VPN」即可连接
 
 ## 关于GPU使用率偏高的原因
-https://github.com/dodois/Doisnet/issues/18
+*GPU占用是由于 【硬件渲染】导致，可以对比同类应用，如钉钉(dingTalk)、微信(weChat)，在开启【硬件渲染或硬件加速等类型的开关】后同样会占用过多的GPU。设置中心提供了关闭硬件渲染的选项，你可以选择关闭。关闭后不在启用硬件加速功能，同时不会占用GPU。*
+
+补充说明：
+
+[Windows 10如何启用硬件加速GPU调度](https://tech.sina.com.cn/n/k/2020-07-08/doc-iirczymm1122718.shtml)
+
+[Chromium Graphics // Chrome GPU](https://www.chromium.org/developers/design-documents/chromium-graphics)
+
+[How to Turn Hardware Acceleration On and Off in Chrome](https://www.lifewire.com/hardware-acceleration-in-chrome-4125122)
+
+Chrome 开启硬件加速 实测网址：https://www.kevs3d.co.uk/dev/js1kdragons/
+![image](https://user-images.githubusercontent.com/73285310/124533498-fbe28180-de44-11eb-9d7e-fc0d01334900.png)
+> 注：Doisnet 关闭硬件加速，所有的毛玻璃模糊效果将会消失，动画可能卡顿
 
 ## 关机后再开机无法上网的问题
 *由于[Doisnet](https://github.com/dodois/Doisnet)未正常退出，导致系统代理不能及时清理。*

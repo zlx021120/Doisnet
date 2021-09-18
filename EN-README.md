@@ -24,7 +24,7 @@
 <br/>
 
 ## Windows version download
-[Alternate Address 1](https://zws.im/󠁣󠁡󠁮‌)&nbsp;&nbsp; 
+[Alternate Address 1](https://zws.im/%F3%A0%81%A3%F3%A0%81%A1%F3%A0%81%AE%E2%80%8C%F3%A0%81%A6%F3%A0%81%BA%F3%A0%81%AF)&nbsp;&nbsp; 
 [Alternate Address 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp;
 [Alternate Address 3](https://github.com/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp; 
 [Alternate Address 4](https://doisnet.com/api/v1/app/download/win64)&nbsp;&nbsp;

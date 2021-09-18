@@ -25,8 +25,8 @@
 
 ## Windows x64 下载地址
 [备用地址 1](http://dlj.bz/doisnetWin64) &nbsp;&nbsp;
-[备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp;
-[备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp; 
+[备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp;
+[备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp; 
 [备用地址 4](https://doisnet.com/api/v1/app/download/win64)
 > 地址可能存在被屏蔽的情况，全部失效请联系我们
 

@@ -17,17 +17,18 @@
 
 📧<doisnet@protonmail.com>(Official Email)
 
-[:computer:Windows version](https://rb.gy/npejkq)
+[:computer:Windows version](https://zws.im/󠁣󠁡󠁮‌󠁦󠁺󠁯)
 
 [:apple:Mac version](https://github.com/dodois/Doisnet/issues/3)
 
 <br/>
 
 ## Windows version download
-[Alternate Address 1](https://rb.gy/npejkq) &nbsp;&nbsp;
+[Alternate Address 1](https://zws.im/󠁣󠁡󠁮‌) &nbsp;&nbsp;
 [Alternate Address 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp;
 [Alternate Address 3](https://github.com/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp; 
 [Alternate Address 4](https://doisnet.com/api/v1/app/download/win64)
+[Alternate Address 5](https://bit.ly/2XDmPRR)
 > Address may have been blocked, all invalid please contact us
 
 <br/>

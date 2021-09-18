@@ -25,8 +25,8 @@
 
 ## Windows version download
 [Alternate Address 1](http://dlj.bz/doisnetWin64) &nbsp;&nbsp;
-[Alternate Address 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp;
-[Alternate Address 3](https://github.com/dodois/Doisnet/releases/download/v0.1.8/doisnet-0.1.8.Setup.exe)&nbsp;&nbsp; 
+[Alternate Address 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp;
+[Alternate Address 3](https://github.com/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp; 
 [Alternate Address 4](https://doisnet.com/api/v1/app/download/win64)
 > Address may have been blocked, all invalid please contact us
 

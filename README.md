@@ -17,14 +17,14 @@
 
 📧<doisnet@protonmail.com>(官方邮箱)
 
-[:computer:Windows x64版下载](http://dlj.bz/doisnetWin64)
+[:computer:Windows x64版下载](http://dlj.bz/Win64Doisnet)
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
 <br/>
 
 ## Windows x64 下载地址
-[备用地址 1](http://dlj.bz/doisnetWin64) &nbsp;&nbsp;
+[备用地址 1](http://dlj.bz/Win64Doisnet) &nbsp;&nbsp;
 [备用地址 2](https://hub.fastgit.org/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp;
 [备用地址 3](https://github.com/dodois/Doisnet/releases/download/v0.1.9/doisnet-0.1.9.Setup.exe)&nbsp;&nbsp; 
 [备用地址 4](https://doisnet.com/api/v1/app/download/win64)

@@ -11,7 +11,9 @@
 
 :page_facing_up:[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
 
-[:penguin:QQ Chatroom](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(Special thanks to "Sobrem" for the chatroom)
+[:penguin:QQ Chatroom(1 full)](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(Special thanks to "Sobrem" for the chatroom)
+
+[:penguin:QQ Chatroom(2)](https://qm.qq.com/cgi-bin/qm/qr?k=OT7Jm4f6BnjaV91J_ZKBy-9Zxz4uRZgH&authKey=eTWLZsa7knNq/D2lj8NJnEPQV+mjNEjhziAl853Ctfv0BKBrID9y+4mdWBhVyE/0&noverify=0&group_code=751254637)(Special thanks to "&nbsp;&nbsp;&nbsp;&nbsp;" for the chatroom)
 
 [:airplane:TG Chatroom](https://t.me/dosvpn)(Official)
 

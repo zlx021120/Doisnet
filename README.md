@@ -11,7 +11,9 @@
 
 :page_facing_up:[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
 
-[:penguin:QQ交流群](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(特别感谢-网友“Sobrem”提供的交流平台)
+[:penguin:QQ交流群(1群已满)](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(特别感谢-网友“Sobrem”提供的交流平台)
+
+[:penguin:QQ交流群(2群)](https://qm.qq.com/cgi-bin/qm/qr?k=OT7Jm4f6BnjaV91J_ZKBy-9Zxz4uRZgH&authKey=eTWLZsa7knNq/D2lj8NJnEPQV+mjNEjhziAl853Ctfv0BKBrID9y+4mdWBhVyE/0&noverify=0&group_code=751254637)(特别感谢-网友“&nbsp;&nbsp;&nbsp;&nbsp;”提供的交流平台)
 
 [:airplane:电报交流群](https://t.me/dosvpn)(官方)
 

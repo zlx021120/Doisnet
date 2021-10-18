@@ -75,7 +75,7 @@ We will always **stay free** to our users no matter what. Click ⭐ Star to supp
 5. Click on the logo on the left and the penultimate option "Open VPN" to connect
 
 ## About the reasons for high GPU usage
-..
+*The GPU usage is caused by hardware rendering, you can compare similar applications, such as nail(dingTalk), weChat, also occupy too much GPU after turning on the switch of hardware rendering or hardware acceleration, etc. The setting center provides the option to turn off hardware rendering, you can choose to turn it off. You can choose to turn it off.*
 
 ## The problem of not being able to access the Internet after shutting down and turning on the computer again
 *The system agent could not be cleaned in time because [Doisnet](https://github.com/dodois/Doisnet) did not exit properly.*

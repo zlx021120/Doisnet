@@ -88,7 +88,6 @@ We will always **stay free** to our users no matter what. Click ⭐ Star to supp
 1. Join [TG Group](https://t.me/dosvpn)
 2. Mail <doisnet@protonmail.com>
 > If you are interested in sponsoring or have already sponsored, please be sure to get in touch with us and thank you for your support!
-<!--img src="https://user-images.githubusercontent.com/73285310/128438492-119e67c4-9ddf-46cb-93fe-1542d9117bdc.jpeg" width = "300"/ -->
 
 - TRX: **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
 - ETH: **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**

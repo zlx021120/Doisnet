@@ -126,7 +126,6 @@ Doisnet 生于社区，服务于社区！我们坚持不收费，仅靠打赏维
 1. 加入 [TG群组](https://t.me/dosvpn)
 2. 邮件 <doisnet@protonmail.com>
 > 如果您有赞助意向或已经赞助，请务必与我们取得联系，感谢您的支持！
-<!-- img src="https://user-images.githubusercontent.com/73285310/128438492-119e67c4-9ddf-46cb-93fe-1542d9117bdc.jpeg" width = "300"/ -->
 
 - TRX: **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
 - ETH: **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**

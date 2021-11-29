@@ -11,8 +11,6 @@
 
 :page_facing_up:[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
 
-[:penguin:QQ Chatroom(1 full)](https://jq.qq.com/?_wv=1027&k=ytGmINy8)(Special thanks to "Sobrem" for the chatroom)
-
 [:penguin:QQ Chatroom(2)](https://qm.qq.com/cgi-bin/qm/qr?k=OT7Jm4f6BnjaV91J_ZKBy-9Zxz4uRZgH&authKey=eTWLZsa7knNq/D2lj8NJnEPQV+mjNEjhziAl853Ctfv0BKBrID9y+4mdWBhVyE/0&noverify=0&group_code=751254637)(Special thanks to "&nbsp;&nbsp;&nbsp;&nbsp;" for the chatroom)
 
 [:airplane:TG Chatroom](https://t.me/dosvpn)(Official)
@@ -89,12 +87,20 @@ We will always **stay free** to our users no matter what. Click ⭐ Star to supp
 2. Mail <doisnet@protonmail.com>
 > If you are interested in sponsoring or have already sponsored, please be sure to get in touch with us and thank you for your support!
 
+## Donation
+*Virtual Currency*
+
 - TRX: **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
 - ETH: **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**
 - XMR: **87PerUDpAQd7rtobJB8B2aNv6GtxxztgZha6y1jPyVPDcmg8L2qunZDXu5SEY54W2Wgnck9d9vYUxCW2T4ZkhANb5W77S81**
 - BTC: **3MyCtjkbaV9hkG41LeSrza6HrmN3f2WAdB**
 - USDT(ERC20): **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**
 - USDT(TRC20): **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
+
+*Amazon Gift*
+- Please send us your Amazon gift code directly through the official channels
+
+> Regardless of the means of donation, as a return gift, all the money will be announced after we desensitize it at the right time. For donations greater than $10, we will open all the hidden features of Doisnet for you now and in the future: e.g. (speed measurement, free choice of nodes, etc.)
 
 ## Installation Tutorial
 *The lack of signature and certificate causes [unknown application prompt] on Windows installation*

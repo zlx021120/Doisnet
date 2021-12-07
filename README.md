@@ -167,3 +167,27 @@ Doisnet 生于社区，服务于社区！我们坚持不收费，仅靠打赏维
 1. 尝试修改DNS设置 如：8.8.8.8 / 8.8.4.4 、 1.1.1.1 / 1.0.0.1 、 223.5.5.5 / 223.6.6.6 、 114.114.114.114 / 114.114.115.115等
 2. 更换网络环境进行下载，如：电脑连接手机热点进行下载（注意：手机请关闭wifi，使用流量开启热点）
 > 一款优秀的DNS辅助设置工具 [dns-jumper](https://www.sordum.org/files/downloads.php?dns-jumper)
+
+## 错误乱码问题
+![image](https://user-images.githubusercontent.com/73285310/144988515-02c5e1a5-f8ba-435a-9f5b-36da91ec152e.png)
+
+*如上图所示，需要修改系统编码，以正确显示错误信息。*
+
+*按照下图进行修改，修改完成后重启Doisnet既可*
+
+![image](https://user-images.githubusercontent.com/73285310/144988760-44dd5f6e-f851-41b1-b0cc-7efe001ef355.png)
+如果错误信息如下：
+```
+服务器连接异常，请检查网络状态
+Command failed with exit code 1: powershell (Get-CimInstance -ClassName Win32_OperatingSystem).caption
+'powershell' is not recognized as an internal or external command,
+operable program or batch file.
+```
+请按照以下方式进行操作，既可解决问题：
+1. windows 搜索栏输入 env 选择第一个 “编辑系统环境变量”
+2. 点击 环境变量 按钮
+3. 弹出的 环境变量窗口分上下两部分（用户变量/系统变量） 上半部分 选中 Path 变量 点击编辑
+4. 在弹出的编辑环境变量窗口中，点击新建 输入 ```C:\Windows\System32\WindowsPowerShell\v1.0\```
+5. 下半部分（系统变量）执行同样操作既重复3，4步骤
+6. 依次点击确定关闭所有弹出的窗口
+> 如遇其他问题请与我们联系

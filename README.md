@@ -21,6 +21,7 @@
 
 [:apple:Mac版下载](https://github.com/dodois/Doisnet/issues/3)
 
+[:book:网友提供的《礼品节点导入第三方代理的教程》](https://github.com/dodois/Doisnet/files/7791915/default.pdf)
 <br/>
 
 ## Windows x64 下载地址

@@ -34,8 +34,7 @@
 
 <br/>
 
-![Snipaste_2021-07-31_16-13-19](https://user-images.githubusercontent.com/73285310/127733596-820aeef9-dd16-4a6d-9712-f6bdc45b0507.png)
-![Snipaste_2021-07-31_16-16-29](https://user-images.githubusercontent.com/73285310/127733682-54177fe6-ba80-4d10-a465-68ff4419bb3c.png)
+![Snipaste_2021-12-31_19-57-33](https://user-images.githubusercontent.com/73285310/147822369-973e81de-2882-470f-abd1-b8bf8f39ef64.png)
 
 <details>
   <summary>关于OnlineAnonymity邀请码</summary>

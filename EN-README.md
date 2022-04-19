@@ -101,8 +101,9 @@ We will always **stay free** to our users no matter what. Click ⭐ Star to supp
 - USDT(ERC20): **0x55E49432d54142E0A195dB61c7e14d88eb6bE4dD**
 - USDT(TRC20): **TWuyuWRYWYseyXrJytUDMfM1cVERA79DjJ**
 
-*Amazon Gift (Amazon US)*
-- Please send us your Amazon gift code directly through the official channels
+Suspension of Amazon USA gift code donations
+*~~Amazon Gift (Amazon US)~~*
+- ~~Please send us your Amazon gift code directly through the official channels~~
 
 > Regardless of the means of donation, as a return gift, all the money will be announced after we desensitize it at the right time. For donations greater than $10, we will open all the hidden features of Doisnet for you now and in the future: e.g. (speed measurement, free choice of nodes, etc.)
 

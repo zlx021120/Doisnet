@@ -11,9 +11,6 @@
 
 :page_facing_up:[[中文文档]](https://github.com/dodois/Doisnet)&nbsp;&nbsp;[[English Document]](https://github.com/dodois/Doisnet/blob/main/EN-README.md)
 
-[:penguin:QQ Chatroom(2-full)](https://qm.qq.com/cgi-bin/qm/qr?k=OT7Jm4f6BnjaV91J_ZKBy-9Zxz4uRZgH&authKey=eTWLZsa7knNq/D2lj8NJnEPQV+mjNEjhziAl853Ctfv0BKBrID9y+4mdWBhVyE/0&noverify=0&group_code=751254637)
-
-[:penguin:QQ Chatroom(3)](https://qm.qq.com/cgi-bin/qm/qr?k=FGhPq9OItvLQz2v4IAM_S32DZSpRToZX&authKey=5vqFo9wT4JkrCWH1fUHmVVKbdvcXmv0Jwewuu5eUcF+dZ7eN1UbOnLPSUuRmT1p5&noverify=0)(Special thanks to "315****@qq.com" for the chatroom)
 
 [:airplane:TG Chatroom](https://t.me/dosvpn)(Official)
 
@@ -23,7 +20,7 @@
 
 [:apple:Mac version](https://github.com/dodois/Doisnet/issues/3)
 
-[:book:by 315****@qq.com《Tutorial for importing gift nodes to third-party agents》](https://github.com/dodois/Doisnet/files/7791915/default.pdf)
+[:book:《Tutorial for importing gift nodes to third-party agents》](https://github.com/dodois/Doisnet/files/7791915/default.pdf)
 
 <br/>
 
